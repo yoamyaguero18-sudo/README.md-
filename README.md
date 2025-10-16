@@ -1,0 +1,1 @@
+Repositorio con ejemplos de procesamiento de imágenes en Python usando OpenCV, NumPy y Matplotlib, incluyendo conversiones de color, detección de colores y mejora de contraste. Se recomienda Python 3.10+, OpenCV ≥4.8, NumPy ≥1.24 y Matplotlib ≥3.7.
